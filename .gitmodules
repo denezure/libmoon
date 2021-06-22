@@ -3,11 +3,6 @@
 	url = https://github.com/emmericp/LuaJIT
 	ignore = untracked
 	branch = v2.1
-[submodule "deps/dpdk"]
-	path = deps/dpdk
-	url = https://github.com/emmericp/dpdk
-	ignore = untracked
-	branch = v17.08
 [submodule "deps/pciids"]
 	path = deps/pciids
 	url = https://github.com/emmericp/pciids
