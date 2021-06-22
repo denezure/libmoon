@@ -29,7 +29,3 @@
 [submodule "deps/tbb"]
 	path = deps/tbb
 	url = https://github.com/01org/tbb.git
-[submodule "deps/dpdk-new"]
-	path = deps/dpdk-new
-	url = git://dpdk.org/dpdk-stable
-	branch = 20.11
